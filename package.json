@@ -1,0 +1,19 @@
+{
+  "name": "resume-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://zolvera1.github.io/portfolio",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Zabdi Samuel Gomez Olvera",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "eslint": "^6.2.2",
+    "gh-pages": "^2.1.1",
+    "node-sass": "^4.12.0"
+  }
+}
