@@ -13,7 +13,7 @@
   "dependencies": {
     "browser-sync": "^2.26.7",
     "eslint": "^6.2.2",
-    "gh-pages": "^2.1.1",
+
     "node-sass": "^4.12.0"
   }
 }
